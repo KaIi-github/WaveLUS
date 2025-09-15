@@ -10,12 +10,12 @@ The following core components have been updated:
 
 ## 📁 Project Structure
 
-WaveLUS/
-├── models/
-│   └── WaveLUS.py
-├── trainer/
-│   └── train_WaveLUS.py
-└── utils/
-    └── metrics.py
++ WaveLUS/
+  + models/
+    + WaveLUS.py
+  + trainer/
+    + train_WaveLUS.py
+  + utils/
+    + metrics.py
 
 ## ✅ Features....
