@@ -10,12 +10,11 @@ The following core components have been updated:
 
 ## 📁 Project Structure
 
-WaveLUS/
-├── models/ # Model architectures
-│ └── WaveLUS.py
-├── trainer/ # Training logic and configuration
-│ └── train_WaveLUS.py
-└── utils/ # Utility functions and metrics
-└── metrics.py
+- `models/` — Model architectures  
+  - `WaveLUS.py`
+- `trainer/` — Training logic and configuration  
+  - `train_WaveLUS.py`
+- `utils/` — Utility functions and metrics  
+  - `metrics.py`
 
 ## ✅ Features....
